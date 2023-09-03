@@ -1036,6 +1036,10 @@ body.nav-active { overflow: hidden; }
    * CUSTOM PROPERTY
    */
 
+  .navbar-home{
+    
+  }
+
   :root {
 
     /**
